@@ -3,10 +3,8 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div>sbs</div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <p>Coming soon!</p>
+      <p>მალე გაეშვება!</p>
     </>
   );
 }
